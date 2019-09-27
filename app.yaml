@@ -1,1 +1,1 @@
-goapp deploy -application root-gist-254204
+runtime: go
